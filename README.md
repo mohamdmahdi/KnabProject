@@ -43,6 +43,9 @@ I used the restsharp to use it with specflow using Multitear archiature
 ## End to End testing
 I used speacflow and Selenium using POM "Page object model"
 
+## For Test Plan
+Attached an excel sheet that contain the fast track plan that contain the number of scenarios 
+
 ## For Dashbaord, 
 I used Extent Reports by anshooarora
 
