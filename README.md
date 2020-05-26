@@ -1,19 +1,19 @@
-#About this project 
+# About this project 
 This is a project to make both API testing and End-End testing for Trello.com API and board, it includes test plan and reporting dashboard
 
-#Used technologies 
+# Used technologies 
 *Dot Net Framework 
 *Specflow 
 *Restsharp
 *Extent Reporting 
 
-#Important Remarks 
+# Important Remarks 
 This example is with working with following structure:
 *Page Object Model, 
 *Multitear archiature 
 
 
-#Needed NuGet Packages
+# Needed NuGet Packages
 *NUnit
 *NUnit3TestAdapter
 *RestSharp
@@ -29,7 +29,7 @@ This example is with working with following structure:
 
 
 # What for what
-##API Testing 
+## API Testing 
 I used the restsharp to use it with specflow using Multitear archiature
 
 ## End to End testing
