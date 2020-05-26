@@ -3,9 +3,9 @@ This is a project to make both API testing and End-End testing for Trello.com AP
 
 # How to make this projects works
 
-1- Clone the project 
-2- Get the Nuget packages
-3- when you run it, you will have the report for each run project automatically in the Dash board folder as HTML file
+1. Clone the project 
+2. Get the Nuget packages
+3. when you run it, you will have the report for each run project automatically in the Dash board folder as HTML file
 
 
 # Used technologies 
