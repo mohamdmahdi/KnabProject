@@ -20,7 +20,7 @@ This example is with working with following structure:
 * RestSharp.Newtonsoft.Json
 * ExtentReports by anshooarora
 * Gherkin
-*S elenium.Chrome.WebDriver
+* Selenium.Chrome.WebDriver
 * Selenium.WebDriver
 * Selenium.Support
 * SpecFlow
