@@ -2,30 +2,30 @@
 This is a project to make both API testing and End-End testing for Trello.com API and board, it includes test plan and reporting dashboard
 
 # Used technologies 
-*Dot Net Framework 
-*Specflow 
-*Restsharp
-*Extent Reporting 
+* Dot Net Framework 
+* Specflow 
+* Restsharp
+* Extent Reporting 
 
 # Important Remarks 
 This example is with working with following structure:
-*Page Object Model, 
-*Multitear archiature 
+* Page Object Model, 
+* Multitear archiature 
 
 
 # Needed NuGet Packages
-*NUnit
-*NUnit3TestAdapter
-*RestSharp
-*RestSharp.Newtonsoft.Json
-*ExtentReports by anshooarora
-*Gherkin
-*Selenium.Chrome.WebDriver
-*Selenium.WebDriver
-*Selenium.Support
-*SpecFlow
-*SpecFlow.NUnit
-*SpecFlow.Tools.MsBuild.Generation 
+* NUnit
+* NUnit3TestAdapter
+* RestSharp
+* RestSharp.Newtonsoft.Json
+* ExtentReports by anshooarora
+* Gherkin
+*S elenium.Chrome.WebDriver
+* Selenium.WebDriver
+* Selenium.Support
+* SpecFlow
+* SpecFlow.NUnit
+* SpecFlow.Tools.MsBuild.Generation 
 
 
 # What for what
