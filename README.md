@@ -39,4 +39,5 @@ I used speacflow and Selenium using POM "Page object model"
 I used Extent Reports by anshooarora
 
 Screen shots from the board
+![Dashboard image main one](https://github.com/mohamdmahdi/KnabProject/blob/master/Screenshot%20(4).png)
 ![Dashbaord images](https://github.com/mohamdmahdi/KnabProject/blob/master/Screenshot%20(3).png)
