@@ -1,6 +1,13 @@
 # About this project 
 This is a project to make both API testing and End-End testing for Trello.com API and board, it includes test plan and reporting dashboard
 
+# How to make this projects works
+
+1- Clone the project 
+2- Get the Nuget packages
+3- when you run it, you will have the report for each run project automatically in the Dash board folder as HTML file
+
+
 # Used technologies 
 - [x] Dot Net Framework 
 - [x] Specflow 
@@ -13,7 +20,7 @@ This example is with working with following structure:
 - [x] Multitear archiature 
 
 
-# Needed NuGet Packages
+# Needed NuGet Packages to be installed
 - [x] NUnit
 - [x] NUnit3TestAdapter
 - [x] RestSharp
@@ -29,6 +36,7 @@ This example is with working with following structure:
 
 
 # What for what
+
 ## API Testing 
 I used the restsharp to use it with specflow using Multitear archiature
 
@@ -39,5 +47,7 @@ I used speacflow and Selenium using POM "Page object model"
 I used Extent Reports by anshooarora
 
 Screen shots from the board
+
+
 ![Dashboard image main one](https://github.com/mohamdmahdi/KnabProject/blob/master/Screenshot%20(4).png)
 ![Dashbaord images](https://github.com/mohamdmahdi/KnabProject/blob/master/Screenshot%20(3).png)
