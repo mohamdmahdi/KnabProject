@@ -2,7 +2,7 @@
 This is a project to make both API testing and End-End testing for Trello.com API and board, it includes test plan and reporting dashboard
 
 # Used technologies 
--  [x]Dot Net Framework 
+- [x] Dot Net Framework 
 - [x] Specflow 
 - [x] Restsharp
 - [x] Extent Reporting 
