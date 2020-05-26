@@ -14,7 +14,7 @@ This example is with working with following structure:
 
 
 # Needed NuGet Packages
--[x] NUnit
+- [x] NUnit
 [x] NUnit3TestAdapter
 [x] RestSharp
 [x]  RestSharp.Newtonsoft.Json
